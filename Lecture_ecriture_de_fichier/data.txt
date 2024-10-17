@@ -1,0 +1,15 @@
+Nom: Jean; Age: 25; Ville: Paris
+Nom: Marie; Age: 30; Ville: Lyon
+Nom: Pierre; Age: 34; Ville: Marseille
+Nom: Élise; Age: 28; Ville: Lille
+Nom: Bruno; Age: 40; Ville: Bordeaux
+Nom: Amélie; Age: 22; Ville: Toulouse
+Nom: Gaël; Age: 31; Ville: Nantes
+Nom: Fanny; Age: 29; Ville: Strasbourg
+Nom: Philippe; Age: 42; Ville: Nice
+Nom: Camille; Age: 26; Ville: Rennes
+Nom: Antoine; Age: 37; Ville: Montpellier
+Nom: Claire; Age: 33; Ville: Grenoble
+Nom: Thomas; Age: 45; Ville: Dijon
+Nom: Juliette; Age: 27; Ville: Angers
+Nom: Marc; Age: 38; Ville: Reims 

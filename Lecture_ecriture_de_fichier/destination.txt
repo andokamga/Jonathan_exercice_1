@@ -1,0 +1,2 @@
+Ceci est un fichier source.
+Il contient plusieurs lignes de texte.
